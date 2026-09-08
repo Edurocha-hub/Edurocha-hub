@@ -2,7 +2,7 @@
 
 **`Desenvolvedor fullstack`**
 
-Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cristão Flórida. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP e cursando full stack java na EBAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[Carlosmendes.dev](https://www.instagram.com/carlosmendes.dev/)
+Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cristão Flórida. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP e cursando full stack java na EBAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[edu.dev1](https://www.instagram.com/edu.dev1?stkn=bzd6ZXVmZHIyd3F1&utm_source=qr)
 
 
 - 🔭 Atualmente eu estou a procura de um emprego como desenvolvedor fron-end.
