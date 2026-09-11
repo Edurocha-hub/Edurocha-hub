@@ -8,7 +8,6 @@ Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Concluí o e
 -  Atualmente eu estou a procura de um estagio como desenvolvedor fron-end.
 -  Estundando Análise e desenvolvimento de sistemas 
 -  Conhecimentos atuais (front-end, html, css, javaScript e estudando python)
--  Pronouns: Ele,Dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
