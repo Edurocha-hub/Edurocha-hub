@@ -11,8 +11,8 @@ Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Concluí o e
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:edurocha1806@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.linkedin.com/in/eduardo-rocha/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF)](mailto:edurocha1806@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/eduardo-rocha/)
 
 <h3 align="left">My Stack ~</h3>
 <div style="display: inline_block"><br>
