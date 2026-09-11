@@ -5,9 +5,9 @@
 Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Cristão Flórida. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP e cursando full stack java na EBAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Instagram, com o perfil chamado "[edu.dev1](https://www.instagram.com/edu.dev1?stkn=bzd6ZXVmZHIyd3F1&utm_source=qr)
 
 
-- 🔭 Atualmente eu estou a procura de um emprego como desenvolvedor fron-end.
+- 🔭 Atualmente eu estou a procura de um estagio como desenvolvedor fron-end.
 - 🌱 Estundando Análise e desenvolvimento de sistemas 
-- 👯 Conhecimentos atuais (front-end, html, css, javaScript)
+- 👯 Conhecimentos atuais (front-end, html, css, javaScript e estudando python)
 - 😄 Pronouns: Ele,Dele
 
 <div style="display: inline_block"><br>
