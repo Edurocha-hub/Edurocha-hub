@@ -13,9 +13,8 @@ Me chamo Carlos Eduardo, tenho 19 anos e sou natural de São Paulo. Atualmente, 
 
   #
 
-<img align="left" alt="" height="190px" src="./src/study.gif">
 
-<img width="500" height="300" alt="study gif" src="https://github.com/user-attachments/assets/b1f7c375-cf15-4fc2-8492-4e9274d8a9cd" />
+<img  align="right" alt="" height="250px" alt="study gif" src="https://github.com/user-attachments/assets/b1f7c375-cf15-4fc2-8492-4e9274d8a9cd" />
 
 
 <h3 align="left">Connect with me!</h3>
